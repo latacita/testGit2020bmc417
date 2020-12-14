@@ -25,3 +25,8 @@
 15.	merge DatosPersonales		Hubo un error porque había conflictos en bitacora.txt. Se hizo de forma recursiva.
 	add + commit
 16.	add + commit "Paso 16"
+17.	tag FusionTerminada
+18.	push 				Hubo un error, ya que había cambios en la rama remota que no había en local.
+					Se cogieron los cambios de la remota, se solucionó los conflictos que hubo, y
+					ya se pudo subir los cambios.
+19.	add + commit "Paso19" + push	
