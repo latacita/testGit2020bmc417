@@ -6,7 +6,15 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+6.	---
+7.	branch Antecedentes		Se ha hecho click derecho sobre el commit desde el que se deseaba crear
+					la RamaAntecentes.
+8.	---
+9.	add + commit "Paso 09"
 10.	checkout master
 11.	push 				click derecho sobre la rama y seleccionamos la opcion push
 12.	---				DatosPersonales y Antecedentes: recursivo
 13.	add + commit "Paso 13"
+
+
+
