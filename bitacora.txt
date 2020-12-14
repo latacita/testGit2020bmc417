@@ -1,11 +1,16 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Martínez Carcedo, Bárbara            %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1.	clone
+2.	branch DatosPersonales
+3.	---
+4.	---
+5.	add + commit "Paso 05"
 6.	---
 7.	branch Antecedentes		Se ha hecho click derecho sobre el commit desde el que se deseaba crear
 					la RamaAntecentes.
