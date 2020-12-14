@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+6.	---
+7.	branch Antecedentes		Se ha hecho click derecho sobre el commit desde el que se deseaba crear
+					la RamaAntecentes.
+8.	---
+9.	add + commit "Paso 09"
