@@ -20,6 +20,8 @@
 11.	push 				click derecho sobre la rama y seleccionamos la opcion push
 12.	---				DatosPersonales y Antecedentes: recursivo
 13.	add + commit "Paso 13"
-
-
-
+14.	merge Antecedentes		Hubo un error porque había conflictos en bitacora.txt. Se hizo de forma recursiva.
+	add + commit			
+15.	merge DatosPersonales		Hubo un error porque había conflictos en bitacora.txt. Se hizo de forma recursiva.
+	add + commit
+16.	add + commit "Paso 16"
